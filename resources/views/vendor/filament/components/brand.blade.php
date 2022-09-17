@@ -1,0 +1,1 @@
+<img src="{{ asset(setting('logo') ? setting('logo') : '/images/logo.svg') }}" alt="Logo" class="h-10">
